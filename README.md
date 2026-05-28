@@ -173,7 +173,7 @@ XGBoost achieves better AUC with a smaller fairness gap. Post-mitigation Logisti
 
 **Income Bracket**
 
-![Logistic Income TPR](reports/results/log_income_tpr.png)
+![Logistic Income TPR](reports/results/logistic_income_tpr.png)
 
 ### Logistic Regression — FPR by Group
 
