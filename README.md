@@ -165,11 +165,11 @@ XGBoost achieves better AUC with a smaller fairness gap. Post-mitigation Logisti
 
 **Gender**
 
-![Logistic Gender TPR](reports/results/log_gender_tpr.png)
+![Logistic Gender TPR](reports/results/logistic_gender_tpr.png)
 
 **Age Group**
 
-![Logistic Age TPR](reports/results/log_age_tpr.png)
+![Logistic Age TPR](reports/results/logistic_age_tpr.png)
 
 **Income Bracket**
 
@@ -179,15 +179,15 @@ XGBoost achieves better AUC with a smaller fairness gap. Post-mitigation Logisti
 
 **Gender**
 
-![Logistic Gender FPR](reports/results/log_gender_fpr.png)
+![Logistic Gender FPR](reports/results/logistic_income_tpr.png)
 
 **Age**
 
-![Logistic Age FPR](reports/results/log_age_fpr.png)
+![Logistic Age FPR](reports/results/logistic_age_fpr.png)
 
 **Income**
 
-![Logistic Income FPR](reports/results/log_income_fpr.png)
+![Logistic Income FPR](reports/results/logistic_income_fpr.png)
 
 ### Logistic Regression — Demographic Parity (Positive Rate)
 
@@ -197,11 +197,11 @@ XGBoost achieves better AUC with a smaller fairness gap. Post-mitigation Logisti
 
 **Age**
 
-![Logistic Age Positive Rate](reports/results/log_age_positive_rate.png)
+![Logistic Age Positive Rate](reports/results/logistic_age_positive_rate.png)
 
 **Income**
 
-![Logistic Income Positive Rate](reports/results/log_income_positive_rate.png)
+![Logistic Income Positive Rate](reports/results/logistic_income_positive_rate.png)
 
 ### Key Fairness Observations
 
