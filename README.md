@@ -193,7 +193,7 @@ XGBoost achieves better AUC with a smaller fairness gap. Post-mitigation Logisti
 
 **Gender**
 
-![Logistic Gender Positive Rate](reports/results/log_gender_positive_rate.png)
+![Logistic Gender Positive Rate](reports/results/logistic_gender_positive_rate.png)
 
 **Age**
 
